@@ -15,7 +15,7 @@ public class TestCar {
         car.setYear(2007);
         car.setOwnerName("Anna");
         car.setInsuranceNumber(12345);
-        car.setEngineType("Petrol");
+
 
         ElectricCar electricCar = new ElectricCar();
 
